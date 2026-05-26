@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230258
+# Name: SHAJIVE KUMAR J
+# Date: 26-05-2026
 
 
 # AIM:
@@ -40,7 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+<img width="856" height="848" alt="image" src="https://github.com/user-attachments/assets/397451d8-eb5b-4be7-80df-7e31f70fa0b8" />
 
 
 
@@ -59,6 +59,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1711" height="830" alt="image" src="https://github.com/user-attachments/assets/dedaad76-6359-4e57-9834-277756e05181" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,7 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
-
+<img width="1069" height="670" alt="image" src="https://github.com/user-attachments/assets/42e49366-cae7-44ee-b82d-c2ae42762386" />
 
 # PACKAGE DIAGRAM:
 
@@ -80,7 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
+<img width="1052" height="823" alt="image" src="https://github.com/user-attachments/assets/81484754-f2d2-407e-9ca3-a3cc8eab8c8b" />
 
 
 
@@ -98,7 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+<img width="640" height="857" alt="image" src="https://github.com/user-attachments/assets/ce014cf7-eb25-4814-895c-e4114849da5c" />
 
 
 # SEQUENCE DIAGRAM
@@ -118,6 +120,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+
+<img width="1049" height="813" alt="image" src="https://github.com/user-attachments/assets/a42b20de-ebce-489d-a9a4-bb4ccb594b85" />
 
 
 
